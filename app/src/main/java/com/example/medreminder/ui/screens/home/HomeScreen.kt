@@ -111,7 +111,7 @@ fun MedicineItem(
 
 
 // ----------------------------------------------------------------------
-// Función para formatear hora tipo 08:30 AM
+// Función para formatear hora
 // ----------------------------------------------------------------------
 fun formatTime(hour: Int, minute: Int): String {
     val amPm = if (hour < 12) "AM" else "PM"
