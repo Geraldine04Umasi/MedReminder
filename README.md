@@ -6,7 +6,11 @@ MedReminder es una aplicación Android diseñada para ayudar a los usuarios a re
 Los recordatorios funcionan incluso cuando la aplicación está cerrada, gracias al uso de almacenamiento persistente y alarmas del sistema.
 
 ---
+## Integrantes:
+- Condorios Yllapuma Jorge Enrique
+- Umasi Coaguila Geraldine Marjorie
 
+---
 # **1. Tecnologías utilizadas**
 
 - **Kotlin**
